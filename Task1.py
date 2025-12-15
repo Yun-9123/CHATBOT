@@ -9,6 +9,7 @@ Chatbot Workflow
 
 """
 
+
 # create dic f1_faq
 f1_faq = {
     "who is oscar piastri?":"He is a autralian driver, also won the 2025 driver championship.",
@@ -45,3 +46,4 @@ def chatbot():
 
 
 chatbot()
+
